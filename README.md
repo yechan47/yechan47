@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yechan47&layout=compact&theme=gruvbox)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yechan47)](https://solved.ac/xlansis438/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xlansis438)](https://solved.ac/xlansis438/)
