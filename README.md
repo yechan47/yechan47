@@ -36,7 +36,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yechan47&layout=compact"/>
         <br/>
         <a href="https://solved.ac/profile/yechan47">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yechan47" alt="solved.ac tier"/>
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlansis438" alt="solved.ac tier"/>
         </a>
  </div>
     </div>
