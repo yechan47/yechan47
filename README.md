@@ -34,7 +34,10 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=yechan47&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yechan47&layout=compact"/>
+        <br/>
+        <a href="https://solved.ac/profile/yechan47">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yechan47" alt="solved.ac tier"/>
+        </a>
  </div>
-        [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=xlansis438)](https://solved.ac/profile/xlansis438)
     </div>
     
